@@ -10,7 +10,7 @@
 <channel>
 	<title>github test</title>
 	<atom:link href="/https://merghaza.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://merghaza.github.io</link>
+	<link>/https://merghaza.github.io/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Mon, 05 Nov 2018 23:34:23 +0000</lastBuildDate>
 	<language>en-US</language>
